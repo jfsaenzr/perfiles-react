@@ -5,7 +5,7 @@ export function Perfil(props) {
   return (
     <div className="contenedor-perfil">
       <img className="imagen-perfil"
-        src={require(`../imagenes/${props.imagen}.png`)}
+        src={require(`../imagenes/${props?.imagen}.jpg`)}
         alt="ing1" />
       <div className="contenedor-texto-perfil">
         <p className="nombre-perfil"><strong>{props.nombre}</strong> en {props.pais}</p>

@@ -3,18 +3,18 @@
     {
         "nombre":"Alejandra Sesquile",
         "pais":"Colombia",
-        "imagen":"psic2",
+        "imagen":"alejandra",
         "cargo":"Psicologa",
         "empresa":"Clínica del Country",
-        "perfil":"La Psicologa es la ciencia que estudia los procesos mentales, las sensaciones, las percepciones y el comportamiento del ser humano, en relación con el medio ambiente físico y social que lo rodea."
+        "perfil":"Profesional que soluciona problemas de forma creativa y eficiente, planeando y organizando sus acciones, dirigidos al objetivo planteado en el campo de las ciencias del comportamiento y la salud mental."
     },
     {
         "nombre":"Johan Saenz",
         "pais":"Colombia",
-        "imagen":"ing1",
+        "imagen":"johan",
         "cargo":"Ingeniero de software",
         "empresa":"HeOn - Health on Line",
-        "perfil":"La Ingeniería de Software es una de las ramas de las ciencias de la computación que estudia la creación de software confiable y de calidad, basándose en métodos y técnicas de ingeniería, y brindando soporte operacional y de mantenimiento."
+        "perfil":"Profesional que dirige el desarrollo, operación y mantenimiento del software con un enfoque sistemático, disciplinado y cuantificable de su desarrollo, empleando modernas técnicas de creación de Software."
     }
     
 ]
